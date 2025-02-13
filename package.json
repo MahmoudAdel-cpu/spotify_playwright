@@ -1,0 +1,28 @@
+{
+  "name": "spotify_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.2",
+    "allure-playwright": "^3.1.0"
+  },
+"directories": {
+  "test": "tests"
+},
+"dependencies": {
+  "allure-js-commons": "^3.1.0",
+  "charenc": "^0.0.2",
+  "crypt": "^0.0.2",
+  "is-buffer": "^1.1.6",
+  "md5": "^2.3.0",
+  "playwright": "^1.50.1",
+  "playwright-core": "^1.50.1",
+  "undici-types": "^6.20.0"
+}
+}
